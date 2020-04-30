@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Once please download or clone below repo:
+
+https://github.com/mustafaalkan64/DotnetCoreTodoApp
+
+Following you download or clone it; please clean, rebuild and run this solution.
+
 If you have never installed Node.js before, you need to install from Nodejs Download Link:
 
 https://nodejs.org/en/download/
