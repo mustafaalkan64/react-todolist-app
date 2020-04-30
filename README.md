@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Once please download or clone below repo:
+Firstly, you need to download or clone below repo to use apis:
 
 https://github.com/mustafaalkan64/DotnetCoreTodoApp
 
