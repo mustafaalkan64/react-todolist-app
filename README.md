@@ -39,11 +39,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-![alt text](https://i.ibb.co/RPcTZyF/Ekran-Al-nt-s-3.png)
+![alt text](https://i.ibb.co/kq5WV6T/Ekran-Al-nt-s-4.png)
 
-![alt text](https://i.ibb.co/bRS2fkz/Ekran-Al-nt-s-4.png)
+![alt text](https://i.ibb.co/gTzQjPg/Ekran-Al-nt-s-3.png)
 
-![alt text](https://i.ibb.co/WsR3hQn/Ekran-Al-nt-s-5.png)
+![alt text](https://i.ibb.co/GHyJrHn/Ekran-Al-nt-s-5.png)
 
-![alt text](https://i.ibb.co/3cf89tj/Ekran-Al-nt-s-6.png)
+![alt text](https://i.ibb.co/MRf4Zv3/Ekran-Al-nt-s-6.png)
 
