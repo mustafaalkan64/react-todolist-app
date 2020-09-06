@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Firstly, you need to download or clone below repo to use apis:
 
-https://github.com/mustafaalkan64/DotnetCoreTodoApp
+https://github.com/mustafaalkan64/DotnetCore3.1TodoApp
 
 Following you download or clone it; please clean, rebuild and run this solution.
 
