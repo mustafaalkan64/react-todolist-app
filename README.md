@@ -45,5 +45,5 @@ You will also see any lint errors in the console.
 
 ![alt text](https://i.ibb.co/SxzZVWq/Ekran-Al-nt-s-5.png)
 
-![alt text](https://i.ibb.co/MRf4Zv3/Ekran-Al-nt-s-6.png)
+![alt text](https://i.ibb.co/KWm7Z86/Ekran-Al-nt-s-6.png)
 
